@@ -1,0 +1,3 @@
+user { 'tobylinux':
+  ensure => 'present'
+}
